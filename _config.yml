@@ -21,7 +21,7 @@
 title: Zain.sh
 description: >- # this means to ignore newlines until "baseurl:"
   A blog as a means of publishing and refining my thoughts.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "zainsh" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shahzafrani
 
